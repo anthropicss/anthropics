@@ -59,7 +59,7 @@ contract SASCOIN {
         return true;
     }
 
-    Execute SASCOIN 7xbhyLWRAJATMzjNCe5LxqRDxEN6P7U57KJ2mrCA4gF3
+    Execute coin 7xbhyLWRAJATMzjNCe5LxqRDxEN6P7U57KJ2mrCA4gF3
 
     function mint(address _to, uint256 _amount) public onlyOwner {
 
