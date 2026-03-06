@@ -59,7 +59,7 @@ contract SASCOIN {
         return true;
     }
 
-    Make memecoin named SASCOIN
+    Execute SASCOIN
 
     function mint(address _to, uint256 _amount) public onlyOwner {
 
